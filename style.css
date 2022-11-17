@@ -1,0 +1,24 @@
+body{
+    background:rgb(3, 213, 255);
+    text-align:center;
+}
+h1{
+    font-size:50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:300;
+}
+#app{
+    background-color:rgb(51, 255, 0);
+}
+.line{
+    height:10px;
+    background-color:rgb(14, 11, 11);
+    width:400px;
+    margin:8px auto;
+}
+#game{
+    background-color:rgb(51, 255, 0);
+   }
+   #chatbot{
+    background-color:rgb(51, 255, 0);
+   }
